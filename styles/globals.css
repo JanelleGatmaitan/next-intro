@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.img-container,
+h1 {
+  width: 90%;
+  text-align: center;
+}
+
+.img-sm {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px
+}
